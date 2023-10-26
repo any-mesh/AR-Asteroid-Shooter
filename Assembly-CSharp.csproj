@@ -74,6 +74,7 @@
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\CFX_Demo_Translate.cs" />
     <Compile Include="Assets\Asteroids Pack\Assets\Scripts\RandomRotator.cs" />
     <Compile Include="Assets\JMO Assets\WarFX\Demo\Assets\WFX_Demo_New.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\JMO Assets\WarFX\Shaders\WFX_S Multiply Soft.shader" />

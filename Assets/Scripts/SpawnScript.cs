@@ -16,8 +16,8 @@ public class SpawnScript : MonoBehaviour
 
     IEnumerator StartSpawning()
     {
-        yield return new WaitForSeconds(4);
-        for (int i = 0; i < 3; i++)
+        yield return new WaitForSeconds(3);
+        for (int i = 0; i < 9; i++)
         {
             Instantiate(balloons[i], spawnPoints[i].position, Quaternion.identity);
         }

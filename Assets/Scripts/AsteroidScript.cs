@@ -8,6 +8,6 @@ public class AsteroidScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.Translate(Vector3.up * Time.deltaTime * 1f);
+        transform.Translate(Vector3.up * Time.deltaTime * 2f);
     }
 }
