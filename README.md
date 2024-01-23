@@ -18,7 +18,7 @@ To get started with AR Asteroid Shooter, follow these steps:
    cd AR-Asteroid-Shooter
    ```
 
-3. Set up the development environment. Make sure you have the necessary dependencies installed. You can find information about the required dependencies in the [Installation](#installation) section.
+3. Set up the development environment. Make sure you have the necessary dependencies installed.
 
 4. Explore the project and have fun!
 
